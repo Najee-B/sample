@@ -1,0 +1,9 @@
+.hom{
+    height: 835px;
+    margin: auto auto auto auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 350px;
+    align-items: center;
+    color: brown;
+}
