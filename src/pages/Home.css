@@ -1,0 +1,9 @@
+.hom{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+    height: 820px;
+    background-color: black;
+    padding-top: 300px;
+}
